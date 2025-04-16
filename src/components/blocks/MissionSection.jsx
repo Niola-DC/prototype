@@ -61,7 +61,7 @@ const MissionSection = () => {
           Discover Our Mission and
           <br className="hidden md:block" /> Values in Education
         </h1>
-        <p className="text-[16px] md:text-[18px] font-medium text-black mt-6 md:mt-8 lg:px-18 px-8">
+        <p className="text-[16px] md:text-[18px] font-medium text-black mt-6 md:mt-8 lg:px-18 px-4">
           At Payskul, we are dedicated to making quality education accessible to all by easing
           financial burdens for parents and students. We aim to reduce school dropouts, promote
           literacy, and create opportunities for educational dreams to come true.
