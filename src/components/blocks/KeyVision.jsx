@@ -31,7 +31,7 @@ const KeyVision = () => {
 
   return (
     <div className="py-12 px-4 md:px-12 lg:px-24">
-      <h2 className="text-3xl font-bold mb-10 text-center text-purple-700">Our Key Visions</h2>
+      <h2 className="text-3xl font-bold mb-10 text-center text-[#1f2937]">Our Key Visions</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 px-18 lg:px-2">
         {vision.map((item) => (
           <div
